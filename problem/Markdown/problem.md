@@ -16,11 +16,13 @@
 
 `Sean`，`Weiwei`，`smartKevin`，`Tuffy`一起出去玩，路上遇到了许多问题。但是因为四个人都事一个一个的OI蒟蒻，解决不了，所以想请你来帮忙。
 
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 ## 写在前面
 
 这套题由四个真的OI蒟蒻出的题拼凑而成，难度大约在`普及/提高-`，欢迎各位神犇前来AK（卑微
+并且已经`push`上了`github`，发现问题请及时提交`issues`
+[**`github`仓库**](https://github.com/Sean-163/xcsy-2nd-junior-1st-test)
 
 <div STYLE="page-break-after: always;"></div>
 
