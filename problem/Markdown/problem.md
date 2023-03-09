@@ -7,7 +7,7 @@
 |源程序文件名|`newfib`|`meeting`|`sakura`|`explorer`|
 |输入文件名|`newfib.in`|`meeting.in`|`sakura.in`|`explorer.in`|
 |输出文件名|`newfib.out`|`meeting.out`|`sakura.out`|`explorer.out`|
-|每个测试点时限|$1s$|$1s$|$1s$|$1s$|
+|每个测试点时限|$0.5s$|$0.5s$|$0.5s$|$0.5s$|
 |测试点数目|$10$|$10$|$10$|$10$|
 |测试点分值|$10$|$10$|$10$|$10$|
 |运行内存上限|$1145MB$|$514MB$|$1145MB$|$1919MB$|
@@ -288,10 +288,9 @@ end=>OK
 
 ### 提示
 
-设$\large{T}$为命令总数
-对于$\large{30\%}$的数据，$\large{2 \leqslant T \leqslant 1000}$
-对于$\large{30\%}$的数据，$\large{1000 \leqslant T \leqslant 20000}$
-对于$\large{40\%}$的数据$\large{20000 \leqslant T \leqslant 400000}$
+设$\large{T}$为命令总数，$\large{D}$为路径深度
+对于$\large{40\%}$的数据，$\large{T \leqslant 100, D \leqslant 10}$
+对于$\large{100\%}$的数据$\large{T \leqslant 5000, D \leqslant 500}$
 
 <div STYLE="page-break-after: always;"></div>
 
